@@ -1,14 +1,22 @@
-## Welcome to GitHub Pages
+### Data Journey For Eternity
+```Markdown
 
+## This is where I would like to express my thoughts on everyday data encounters.
+
+**Trying out something in bold**
+
+_If your data isn't increasing neither is your business_
+
+```
 You can use the [editor on GitHub](https://github.com/Ankit-Dwivedii/DataJourney-For-Eternity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My Markdown starts here: 
 
-```markdown
+```Markdown
 Syntax highlighted code block
 
 # Header 1
@@ -23,7 +31,15 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
+
+[That's SAS Home](https://www.sas.com/en_us/insights/articles/analytics/concussion--alan-schwarz-crunches-numbers-and-breaks-a-scandal-w.html#/)
+
+### That's me (I know I look a bit older)
+
+![Image](C:\Users\ab\Pictures\Wallpapers\Desktop-quote-wallpapers-HD-pictures-photos)
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
