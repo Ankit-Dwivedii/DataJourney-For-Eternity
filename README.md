@@ -37,7 +37,7 @@ Syntax highlighted code block
 
 ### That's me (I know I look a bit older)
 
-![Image](C:\Users\ab\Pictures\Wallpapers\Desktop-quote-wallpapers-HD-pictures-photos)
+![Image](C:/Users/Ankit/Pictures/Elastic Search Project/elastic)
 
 
 ```
